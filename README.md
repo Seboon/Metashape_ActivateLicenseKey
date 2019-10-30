@@ -9,5 +9,5 @@ Useful if you want to transfer the license key from one computer to another one.
     An easy way is to make a shortcut of the "Metashape.exe" file, then right click on it, open "Properties" dialog > "Shortcut" tab >         "Advanced" tab> check "execute as administrator".
     
   - __Edit the script__  
-    Overwrite the "AutoLicenseKey.py" file in a text editor,just replacing the variable "key = 'XXXXX-XXXXX-XXXXX-XXXXX-XXXXX'" with           your license Key.
+    Overwrite the "AutoLicenseKey.py" file in a text editor, just replacing the content of the variable "key" (line 23) with your license     key.
   
