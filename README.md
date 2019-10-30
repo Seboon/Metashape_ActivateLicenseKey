@@ -1,1 +1,1 @@
-# Metashape_ActivateLicenseKey
+# A python script for Metashape Pro
