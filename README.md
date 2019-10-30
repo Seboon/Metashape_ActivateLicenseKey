@@ -6,4 +6,4 @@ Useful if you want to transfer the license key from one computer to another one.
 * __Prerequisites__
 
   - __You must open Metashape with admin rights.__  
-    -An easy way is to make a shortcut of the "Metashape.exe" file, then right click on it, open "Properties" dialog > "Shortcut" tab >         "Advanced" tab> check "execute as administrator".
+    An easy way is to make a shortcut of the "Metashape.exe" file, then right click on it, open "Properties" dialog > "Shortcut" tab >         "Advanced" tab> check "execute as administrator".
